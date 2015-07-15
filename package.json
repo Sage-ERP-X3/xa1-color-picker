@@ -1,0 +1,17 @@
+{
+  "name": "xa1-color-picker",
+  "description": "Color picker widget extension",
+  "version": "1.0.0",
+  "author": "ACME Inc.",
+  "private": true,
+  "sage": {
+    "x3": {
+      "extensions": {
+        "widgets": [{
+          "module": "xa1-color-picker/public/color-picker",
+          "type": "application/x-xa1-color"
+        }]
+      }
+    }
+  }
+}

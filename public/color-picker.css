@@ -1,0 +1,13 @@
+.xa1-color-picker-wheel {
+	display: block;
+}
+
+.xa1-color-picker-input {
+	width: 150px;
+	padding: 3px 10px;
+}
+
+.xa1-color-picker-sample {
+	width: 100px;
+	height: 20px;
+}

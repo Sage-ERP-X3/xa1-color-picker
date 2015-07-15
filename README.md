@@ -1,0 +1,1 @@
+See [color picker extension tutorial](https://github.com/Sage-ERP-X3/dev-doc/blob/master/integration-guide/color-picker-extension-tutorial.md)
